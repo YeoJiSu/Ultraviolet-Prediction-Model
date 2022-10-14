@@ -137,4 +137,5 @@ Epoch 1/10
 
 처음, keras로 모델을 짤 때, 정확도를 높이기 위해 상관관계 별로도 돌려보고, stn 별로도 돌려봤지만, 크게 해결하지 못했다. 나중에 pytorch로 짤 때는 조금씩 개선 되는 것이 보였다. keras로는 prediction 값이 actual 값과 추이는 비슷했지만 늘 2배 정도 높게 나왔는데, pytorch로는 prediction 값을 낮출 수 있었다. 
 
+<img src="Pytorch로_모델학습/3/3_result.png" width="1000">
 마지막 모델 3.py에서 0 밑으로 uv 값이 떨어지는 것을 개선한다면 더 나은 모델이 나올 것으로 생각된다. 
