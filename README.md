@@ -45,7 +45,7 @@ _대회를 진행하면서 전 과정들을 "[notion](https://www.notion.so/a315
 ## 4차 미팅 이후
 - [칼럼값 변경 후 위치별로 모델 예측률 평가하기](https://www.notion.so/65cc31eaea7c446ca0eabd579e65fae6)
 - [모델 정확도 향상시켜보기](https://www.notion.so/154476febef74aa581810034b9fd3d6a)
-- tensorflow -> [pytorch](https://www.notion.so/torch-d273c8b5fed245a99b8a78880158c7ce)로 바꾸어 모델 다시 작성
+- keras -> [pytorch](https://www.notion.so/torch-d273c8b5fed245a99b8a78880158c7ce)로 바꾸어 모델 다시 작성
 
 <br>
 
@@ -111,7 +111,7 @@ Epoch 1/10
 
 
 ### 문제
-- tensorflow + keras 로 layer(층)늘리기, 배치사이즈, 활성화 함수, loss 함수, 옵티마이저를 바꾸는 등의 여러 시도를 해봤지만, 예측률이 좋지 못하다. 
+- keras 로 layer(층)늘리기, 배치사이즈, 활성화 함수, loss 함수, 옵티마이저를 바꾸는 등의 여러 시도를 해봤지만, 예측률이 좋지 못하다. 
 ### 해결
 - 데이터셋 또는 모델의 문제라 생각을 했고, 모델을 바꾸어 보기로 결정했다. 데스크톱에 torch를 설치한 후, pytorch로 코드를 작성하여 모델을 한층씩 뜯어 보기로 했다. 
 
