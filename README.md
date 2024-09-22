@@ -1,6 +1,9 @@
 # 🌈 Ultraviolet-Prediction-Model
 > 기상청에서 주최하는 『2022 날씨 빅데이터 콘테스트』 대회에 참가하여, 딥러닝 모델을 학습시킨 과정들을 기록한 저장소입니다.
 
+# 발표 자료 링크 
+https://drive.google.com/file/d/1ptDdVQKkXrHAkt54jeWA5Yf0tJvIAvNM/view?usp=drive_link
+
 # 🙋‍♀️ 참가
 - 소프트웨어 및 시스템 보안 연구실 내 석,박사 과정 각 1명과, 학부생 2명(필자)으로 참가했다. <br>
 # ⛅️ 소개 
